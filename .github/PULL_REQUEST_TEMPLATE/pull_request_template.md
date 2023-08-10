@@ -1,49 +1,63 @@
-## Related Issues
-
-<!--
-	If this is a bug fix, or adds a feature mentioned in another issue, mention
-	it as follows:
-
-	- Closes #10
-	- Fixes #15
--->
-
 ## Description
 
 <!--
-	Explain what has been added/changed/removed, in
-	[keepachangelog.com](https://keepachangelog.com) style.
+Please do not leave this blank
+This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 -->
 
-### Added
+## What type of PR is this? (check all applicable)
+
+-   [ ] 🍕 Feature
+-   [ ] 🐛 Bug Fix
+-   [ ] 📝 Documentation Update
+-   [ ] 🎨 Style
+-   [ ] 🧑‍💻 Code Refactor
+-   [ ] 🔥 Performance Improvements
+-   [ ] ✅ Test
+-   [ ] 🤖 Build
+-   [ ] 🔁 CI
+-   [ ] 📦 Chore (Release)
+-   [ ] ⏩ Revert
+
+## Related Tickets & Documents
 
 <!--
-	- Added a new method on the limiter object to reset the count for a certain IP [#10]
+Please use this format link issue numbers: Fixes #123
+https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
 -->
 
-### Changed
+## Mobile & Desktop Screenshots/Recordings
+
+<!-- Visual changes require screenshots -->
+
+## Added tests?
+
+-   [ ] 👍 yes
+-   [ ] 🙅 no, because they aren't needed
+-   [ ] 🙋 no, because I need help
+
+## Added to documentation?
+
+-   [ ] 📜 README.md
+<!-- please provide a Confluence link if applies -->
+-   [ ] 🗂️ Confluence
+-   [ ] 📕 storybook
+-   [ ] 🙅 no documentation needed
+
+## [optional] Are there any post-deployment tasks we need to perform?
+
+## [optional] What gif best describes this PR or how it makes you feel?
+
+<!-- note: PRs with deleted sections will be marked invalid -->
 
 <!--
-	- Deprecated `global` option
-	- Fixed test for deprecated options [#15]
+
+  For a timely review/response, please avoid force-pushing additional
+  commits if your PR already received reviews or comments.
+
+  Before submitting a Pull Request, please ensure you've done the following:
+  - 👷‍♀️ Create small PRs. In most cases, this will be possible.
+  - ✅ Provide tests for your changes.
+  - 📝 Use descriptive commit messages.
+  - 📗 Update any related documentation and include any relevant screenshots.
 -->
-
-### Removed
-
-<!--
-	- Removed deprecated `headers` option
--->
-
-## Caveats/Problems/Issues
-
-<!--
-	Any weird code/problems you faced while making this PR. Feel free to ask for
-	help with anything!
--->
-
-## Checklist
-
--   [ ] The issues that this PR fixes/closes have been mentioned above.
--   [ ] What this PR adds/changes/removes has been explained.
--   [ ] All tests pass.
--   [ ] The linter does not throw an errors.
