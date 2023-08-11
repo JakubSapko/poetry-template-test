@@ -26,7 +26,7 @@ Please use this format link issue numbers: Fixes #123
 https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
 -->
 
-## Mobile & Desktop Screenshots/Recordings
+## Screenshots/Recordings
 
 <!-- Visual changes require screenshots -->
 
@@ -38,15 +38,13 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 ## Added to documentation?
 
--   [ ] 📜 README.md
 <!-- please provide a Confluence link if applies -->
+
+-   [ ] 📜 README.md
 -   [ ] 🗂️ Confluence
--   [ ] 📕 storybook
 -   [ ] 🙅 no documentation needed
 
 ## [optional] Are there any post-deployment tasks we need to perform?
-
-## [optional] What gif best describes this PR or how it makes you feel?
 
 <!-- note: PRs with deleted sections will be marked invalid -->
 
