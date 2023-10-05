@@ -27,7 +27,7 @@ python = "^3.8.1"
 
 
 # optional dependencies, which enhance a package, but are not required; and clusters of optional dependencies.
-types-requests = "^2.31.0.1"
+types-requests = "^2.31.0.8"
 
 
 [tool.poetry.extras]
